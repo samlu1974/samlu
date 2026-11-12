@@ -1,0 +1,21 @@
+{
+  "title": "台灣大專校院半導體課程計量分析說明網站",
+  "version": "2026-11-11",
+  "pages": [
+    "index.html",
+    "context.html",
+    "pipeline.html",
+    "descriptives.html",
+    "model.html",
+    "robustness.html",
+    "alignment.html",
+    "results.html",
+    "impact.html",
+    "briefing.html",
+    "glossary.html",
+    "sources.html"
+  ],
+  "cards": 21,
+  "deployment_layout": "single_level_flat",
+  "subdirectories_required": false
+}
